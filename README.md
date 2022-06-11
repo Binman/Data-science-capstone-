@@ -1,2 +1,2 @@
 # Data-science-capstone-
-final model at week7
+final model assignment for week7
